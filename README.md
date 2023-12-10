@@ -1,4 +1,3 @@
-markdown
 
 # Recipe CRUD App
 

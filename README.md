@@ -58,4 +58,3 @@ The project meets the following success criteria:
 - General Code Organization:
 - Code duplication is minimized.
 
-Feel free to explore and enhance the app as per your require

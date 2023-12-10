@@ -13,21 +13,6 @@ This project is a Recipe tracking app that allows users to add, display, and del
 - Display a list of recipes with details including name, cuisine, photo, ingredients, and preparation.
 - Delete a recipe by clicking the delete button associated with each recipe.
 
-## Installation
-
-1. Clone the repository: git clone <repository-url>
-
-
-2. Navigate to the project directory: cd recipe-crud-app
-
-
-3. Install the dependencies: npm install
-
-
-4. Start the development server: npm start
-
-
-5. Open your web browser and visit `http://localhost:3000` to view the app.
 
 ## Usage
 

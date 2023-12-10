@@ -47,9 +47,7 @@ tr.guacamole {
   background-color: white;
 }
 
-tr.create-recipe(odd) {
-  background-color: #fff0c7;
-}
+
 
 .content_td p {
   max-width: 100%;
